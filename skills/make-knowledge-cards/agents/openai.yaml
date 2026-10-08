@@ -1,0 +1,4 @@
+interface:
+  display_name: "Knowledge Cards"
+  short_description: "Create faithful, focused study cards from source text"
+  default_prompt: "Turn this article or Markdown/TXT file into source-grounded knowledge cards."
